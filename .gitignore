@@ -1,0 +1,14 @@
+# colcon build output
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Editors / OS
+.vscode/
+*.swp
+.DS_Store
